@@ -18,4 +18,4 @@ A **machine learning model** that predicts potential failures in solar power sys
 
 1️⃣ Clone the repository:  
 ```sh
-https://github.com/PrathamAgrawal51/Predictive-Maintenance-in-Solar-Power-Systems.git
+git clone https://github.com/PrathamAgrawal51/Predictive-Maintenance-in-Solar-Power-Systems.git
